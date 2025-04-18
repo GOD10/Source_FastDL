@@ -1,0 +1,14 @@
+"Resources"
+{
+	"sound/gungame/gungame2.mp3"		"file"
+	"sound/gungame/knife_level.mp3"		"file"
+	"sound/gungame/multikill.mp3"		"file"
+	"sound/gungame/nade_level.mp3"		"file"
+	"sound/gungame/smb_star.mp3"		"file"
+	"sound/gungame/smb_warning2.mp3"	"file"
+	"sound/gungame/smb3_1-up.mp3"		"file"
+	"sound/gungame/smb3_powerdown.mp3"	"file"
+	"sound/gungame/smb3_powerup.mp3"	"file"
+	"sound/gungame/timer.mp3"			"file"
+	"sound/gungame/winner.mp3"			"file"
+}
