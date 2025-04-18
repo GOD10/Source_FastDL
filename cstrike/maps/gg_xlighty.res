@@ -11,4 +11,6 @@
 	"sound/gungame/smb3_powerup.mp3"	"file"
 	"sound/gungame/timer.mp3"			"file"
 	"sound/gungame/winner.mp3"			"file"
+	"sound/goomba/rebound.wav"			"file"
+	"sound/goomba/stomp.wav"			"file"
 }
